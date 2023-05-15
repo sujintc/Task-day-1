@@ -1,0 +1,26 @@
+Q.1 Differnce between http 1.1 and http 2 .
+    Answer:
+       
+     http - hypetext transfer protocol
+     
+     Objective:
+     ____________
+            1. It is used for communication between a client or the user and the  server. 
+            2. Helps the client to get the desired information.
+      
+      Differnce between http 1.1 and http 2
+      ____________________________________________
+            1. HTTP 1.1 loads resources one after the other, so if one resource cannot be loaded, it blocks all the other resources behind it. In contrast, HTTP 2 if 
+                one resouce is blocked the other resource can be loaded.
+            2. http 2 is reliable more than https 1.1            
+            3. http 2 is more faster and is more efficient.                                     
+
+Q.2  Objects and its internal representation in javascript.
+     
+      Answer:
+      ________
+            1.Object is a datatype in javscript.       
+            2.To group values with similar characteristics together to make your code more readable .
+            3.In JavaScript, objects work well for this purpose.
+            4. Unlike other data types, objects are capable of storing complex values.
+            5.Examples of objects in java script:pen ,cahir,table etc.
